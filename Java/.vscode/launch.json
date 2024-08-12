@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Kruskalalgo",
+            "request": "launch",
+            "mainClass": "Kruskalalgo",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "OutofBound",
+            "request": "launch",
+            "mainClass": "OutofBound",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "FractionalKnapSack",
+            "request": "launch",
+            "mainClass": "FractionalKnapSack",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Override",
+            "request": "launch",
+            "mainClass": "Override",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Interface3",
+            "request": "launch",
+            "mainClass": "Interface3",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceExtend",
+            "request": "launch",
+            "mainClass": "InterfaceExtend",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "ToTestInt",
+            "request": "launch",
+            "mainClass": "ToTestInt",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "manager",
+            "request": "launch",
+            "mainClass": "manager",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Worker_run",
+            "request": "launch",
+            "mainClass": "Worker_run",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Player2",
+            "request": "launch",
+            "mainClass": "Player2",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "s04_02",
+            "request": "launch",
+            "mainClass": "s04_02",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Suminteger",
+            "request": "launch",
+            "mainClass": "Suminteger",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Switch_12",
+            "request": "launch",
+            "mainClass": "Switch_12",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Monthname",
+            "request": "launch",
+            "mainClass": "Monthname",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "SquareSum_8",
+            "request": "launch",
+            "mainClass": "SquareSum_8",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Combinations",
+            "request": "launch",
+            "mainClass": "Combinations",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "StuMark_6",
+            "request": "launch",
+            "mainClass": "StuMark_6",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "clculator",
+            "request": "launch",
+            "mainClass": "clculator",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "fibonaciloop",
+            "request": "launch",
+            "mainClass": "fibonaciloop",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "addtwo",
+            "request": "launch",
+            "mainClass": "addtwo",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "largestof3",
+            "request": "launch",
+            "mainClass": "largestof3",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "numpatter",
+            "request": "launch",
+            "mainClass": "numpatter",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "numpatter",
+            "request": "launch",
+            "mainClass": "numpatter",
+            "projectName": "Java_635aabc1"
+        },
+        {
+            "type": "java",
+            "name": "triangle",
+            "request": "launch",
+            "mainClass": "triangle",
+            "projectName": "Java_635aabc1"
+        },
+        {
+            "type": "java",
+            "name": "rectangle",
+            "request": "launch",
+            "mainClass": "rectangle",
+            "projectName": "Java_635aabc1"
+        },
+        {
+            "name": "(gdb) Attach",
+            "type": "cppdbg",
+            "request": "attach",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "MIMode": "gdb",
+            "miDebuggerPath": "/path/to/gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}
